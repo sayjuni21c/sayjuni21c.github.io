@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sang Jun Park
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Toast Rookie 3rd 
+NHN Entertainment 
+Park Sang Jun
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sangjun.park@nhnent.com](mailto:sangjun.park@nhnent.com)
