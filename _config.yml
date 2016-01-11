@@ -1,3 +1,4 @@
 name: sayjuni21c blog
 markdown: redcarpet
 pygments: true
+comments: yes
