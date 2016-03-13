@@ -4,6 +4,7 @@ title: nGrinder를 써보자
 cover: cover.jpg
 ---
 
+* * *
 
 # nGrinder 
 
@@ -39,15 +40,16 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
 >  비공개 URL
  
  ---
-### 메인 화면
+## 메인 화면
+ <img src="/images/posts/nginrder1">
  
  로그인을 하면서 위와 같은 화면을 보실 수 있습니다. 
  간단하게 테스트를 할 수 있도록 Quick Start 메뉴가 있는데 이곳에 원하는 서비스의 URL을 입력합니다. 
  테스트를 측정하기 위한 스크립트 언어를 선택할 수 있는데 groovy와 jython, groovy maven project 중에 선택할 수 있습니다.
 
 ---
-### 설정 페이지
-
+## 설정 페이지
+<img src="/images/posts/nginrder2">
 
 에이전트의 수와 에이젠트별 가상사용자 수를 지정하고
 지역을 **★★IDC**로 설정합니다.
@@ -62,8 +64,8 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
 (메인에서 설정했던 스크립트 방식으로 생성됩니다.)
 
 ---
-### 스크립트
-
+## 스크립트
+<img src="/images/posts/nginrder3">
 
 구조를 딱 보시면 눈치채신 분들도 있으시겠지만 저희가 이제까지 작성했었던 TC와 개념적으로 같습니다. 
 
@@ -119,13 +121,13 @@ class TestRunner {
 테스트를 위한 테스트 코드가 확인이 완료되었으면 '저장 후 시작'을 통해 테스트를 실행 할 수 있습니다. 
 
 ---
-### 보고서 화면 
-
+## 보고서 화면 
+<img src="/images/posts/nginrder4">
 
 테스트가 완료되면 위와 같은 보고서 결과를 얻을 수 있습니다. 테스트 조건을 다양하게 한다면 더 가치 있는 테스트를 하실 수 있습니다.
 
 
-> (위의 사항들에 대해서 더욱 자세한 내용은 [BaseCamp-공지사항/228 &#91;공유&#93; 작년 성능 강의자료 공유](dooray://1387695619080878080/tasks/1639070061055885940 "working") 에 첨부파일 중 ngrinder 부분을 참고해주시길 바랍니다.)
+> (위의 사항들에 대해서 더욱 자세한 내용은 [BaseCamp-공지사항/228 &#91;공유&#93; 작년 성능 강의자료 공유]() 에 첨부파일 중 ngrinder 부분을 참고해주시길 바랍니다.)
  
 
 ---
@@ -136,7 +138,7 @@ class TestRunner {
 ---
 ### 참고 사이트 
 
-* http://naver.github.io/ngrinder/
-* http://deview.kr/2013/detail.nhn?topicSeq=2
-* http://junoyoon.tistory.com/entry/nGrinder-33-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95
-* http://www.groovy-lang.org/
+* [http://naver.github.io/ngrinder/](http://naver.github.io/ngrinder/)
+* [http://deview.kr/2013/detail.nhn?topicSeq=2](http://deview.kr/2013/detail.nhn?topicSeq=2)
+* [http://junoyoon.tistory.com/entry/nGrinder-33-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95](http://junoyoon.tistory.com/entry/nGrinder-33-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95)
+* [http://www.groovy-lang.org/](http://www.groovy-lang.org/)
