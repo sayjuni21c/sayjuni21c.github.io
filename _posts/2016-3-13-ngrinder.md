@@ -6,8 +6,10 @@ cover: cover.jpg
 
 * * *
 
+<br> 
 # nGrinder 
 
+<br> 
 
 ## 설명
 
@@ -41,7 +43,7 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
  
  ---
 ## 메인 화면
- <img src="/images/posts/nginrder1">
+ <img src="/images/posts/ngrinder1.png">
  
  로그인을 하면서 위와 같은 화면을 보실 수 있습니다. 
  간단하게 테스트를 할 수 있도록 Quick Start 메뉴가 있는데 이곳에 원하는 서비스의 URL을 입력합니다. 
@@ -49,7 +51,7 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
 
 ---
 ## 설정 페이지
-<img src="/images/posts/nginrder2">
+<img src="/images/posts/ngrinder2.png">
 
 에이전트의 수와 에이젠트별 가상사용자 수를 지정하고
 지역을 **★★IDC**로 설정합니다.
@@ -65,7 +67,7 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
 
 ---
 ## 스크립트
-<img src="/images/posts/nginrder3">
+<img src="/images/posts/ngrinder3.png">
 
 구조를 딱 보시면 눈치채신 분들도 있으시겠지만 저희가 이제까지 작성했었던 TC와 개념적으로 같습니다. 
 
@@ -122,7 +124,7 @@ class TestRunner {
 
 ---
 ## 보고서 화면 
-<img src="/images/posts/nginrder4">
+<img src="/images/posts/ngrinder3.png">
 
 테스트가 완료되면 위와 같은 보고서 결과를 얻을 수 있습니다. 테스트 조건을 다양하게 한다면 더 가치 있는 테스트를 하실 수 있습니다.
 
