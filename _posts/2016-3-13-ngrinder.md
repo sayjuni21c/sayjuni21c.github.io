@@ -7,9 +7,9 @@ cover: cover.jpg
 * * *
 
 <br> 
+
 # nGrinder 
 
-<br> 
 
 ## 설명
 
@@ -41,16 +41,20 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
 > **따라서 사내에서는 ngrinder를 쉽게 테스트할 수 있는 환경을 제공하고 있습니다.  
 >  비공개 URL
  
- ---
+
+ 
 ## 메인 화면
- <img src="/images/posts/ngrinder1.png">
+
+<img src="/images/posts/ngrinder1.png">
  
  로그인을 하면서 위와 같은 화면을 보실 수 있습니다. 
  간단하게 테스트를 할 수 있도록 Quick Start 메뉴가 있는데 이곳에 원하는 서비스의 URL을 입력합니다. 
  테스트를 측정하기 위한 스크립트 언어를 선택할 수 있는데 groovy와 jython, groovy maven project 중에 선택할 수 있습니다.
 
----
+
+ 
 ## 설정 페이지
+
 <img src="/images/posts/ngrinder2.png">
 
 에이전트의 수와 에이젠트별 가상사용자 수를 지정하고
@@ -65,8 +69,9 @@ https://sourceforge.net/projects/ngrinder/files/ 에서 직접 다운 받으실 
 스크립트에서 R HEAD를 클릭하면 그루비스크립트 코드 내용을 보실 수 있습니다.
 (메인에서 설정했던 스크립트 방식으로 생성됩니다.)
 
----
+
 ## 스크립트
+
 <img src="/images/posts/ngrinder3.png">
 
 구조를 딱 보시면 눈치채신 분들도 있으시겠지만 저희가 이제까지 작성했었던 TC와 개념적으로 같습니다. 
@@ -122,8 +127,9 @@ class TestRunner {
 
 테스트를 위한 테스트 코드가 확인이 완료되었으면 '저장 후 시작'을 통해 테스트를 실행 할 수 있습니다. 
 
----
+
 ## 보고서 화면 
+
 <img src="/images/posts/ngrinder3.png">
 
 테스트가 완료되면 위와 같은 보고서 결과를 얻을 수 있습니다. 테스트 조건을 다양하게 한다면 더 가치 있는 테스트를 하실 수 있습니다.
