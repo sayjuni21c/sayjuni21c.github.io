@@ -1,4 +1,6 @@
 name: sayjuni21c blog
+
+highlighter: pygments
 markdown: kramdown
 pygments: true
 comments: yes
